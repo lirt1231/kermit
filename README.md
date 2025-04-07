@@ -42,6 +42,12 @@ data
 │   ├── test.json
 │   ├── train.json
 │   └── valid.json
+├── umls
+│   ├── entities.json
+│   ├── inverse_relations.json
+│   ├── test.json
+│   ├── train.json
+│   └── valid.json
 ```
 
 ## Training and evaluation
