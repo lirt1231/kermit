@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the implementation of the paper "KERMIT: Knowledge Graph Completion of Enhanced Relation Modeling with Inverse Transformation". In this paper, we introduce enhanced KGC using LLM-generated knowledge (predictive descriptions and inverse relations) and supervised contrastive learning, achieving significant performance boosts.
+This repository contains the implementation of the [paper](https://arxiv.org/abs/2309.14770) "KERMIT: Knowledge Graph Completion of Enhanced Relation Modeling with Inverse Transformation". In this paper, we introduce enhanced KGC using LLM-generated knowledge (predictive descriptions and inverse relations) and supervised contrastive learning, achieving significant performance boosts.
 
 ## Requirements
 
